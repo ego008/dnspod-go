@@ -1,3 +1,3 @@
-module github.com/nrdcg/dnspod-go
+module github.com/ego008/dnspod-go
 
 go 1.14
